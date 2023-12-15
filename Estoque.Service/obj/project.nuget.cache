@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9UF4XU4ibJ7Mz8roTuk0gTd1rxiuS7UMWeWmn3OYctCgi6UtezlbupmW7+xiqQg3wmkFgiR2SjKuHtZV24DQw==",
+  "success": false,
+  "projectFilePath": "C:\\Programação Orientada a Eventos\\Controle de Estoque - Caio\\IFSPStore.Service\\Estoque.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiom\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Programação Orientada a Eventos\\Controle de Estoque - Caio\\Estoque.Domain\\Estoque.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Programação Orientada a Eventos\\Controle de Estoque - Caio\\Estoque.Domain\\Estoque.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

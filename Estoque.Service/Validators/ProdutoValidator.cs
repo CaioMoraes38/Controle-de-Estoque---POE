@@ -1,0 +1,20 @@
+﻿
+using FluentValidation;
+using Estoque.Domain.Entities;
+
+namespace Estoque.Service.Validators
+{
+    public class ProdutoValidator : AbstractValidator<Produto>
+    {
+        public ProdutoValidator()
+        {
+            RuleFor(c => c.Nome)
+                .NotEmpty().WithMessage("Por favor informe o nome.")
+                .NotNull().WithMessage("Por favor informe o nome.");
+
+            RuleFor(c => c.UnidadeVenda)
+                .NotEmpty().WithMessage("Por favor informe a unidade.")
+                .NotNull().WithMessage("Por favor informe a unidade.");
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfguikBlr/L+fz8TFvU1seROn1+vcr7QikPPX6JC+APNo/YjVY8wYS13DlaXfRDNMecd3Ze/Vzfzo3Ph6g4kTw==",
+  "success": true,
+  "projectFilePath": "C:\\Programação Orientada a Eventos\\Controle de Estoque - Caio\\IFSPStore.Domain\\Estoque.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiom\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

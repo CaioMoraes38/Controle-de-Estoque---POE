@@ -1,0 +1,12 @@
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\bin\Debug\net6.0\IFSPStore.Domain.deps.json
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\bin\Debug\net6.0\IFSPStore.Domain.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\bin\Debug\net6.0\IFSPStore.Domain.pdb
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.csproj.AssemblyReference.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.AssemblyInfoInputs.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.AssemblyInfo.cs
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.csproj.CoreCompileInputs.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\refint\IFSPStore.Domain.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\IFSPStore.Domain.pdb
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Domain\obj\Debug\net6.0\ref\IFSPStore.Domain.dll

@@ -1,0 +1,17 @@
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\bin\Debug\net6.0\IFSPStore.Repository.deps.json
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\bin\Debug\net6.0\IFSPStore.Repository.runtimeconfig.json
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\bin\Debug\net6.0\IFSPStore.Repository.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\bin\Debug\net6.0\IFSPStore.Repository.pdb
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.csproj.AssemblyReference.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.AssemblyInfoInputs.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.AssemblyInfo.cs
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.csproj.CoreCompileInputs.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.csproj.CopyComplete
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\refint\IFSPStore.Repository.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.pdb
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\IFSPStore.Repository.genruntimeconfig.cache
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\obj\Debug\net6.0\ref\IFSPStore.Repository.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\bin\Debug\net6.0\Estoque.Domain.dll
+C:\Programação Orientada a Eventos\Controle de Estoque - Caio\IFSPStore.Repository\bin\Debug\net6.0\Estoque.Domain.pdb
